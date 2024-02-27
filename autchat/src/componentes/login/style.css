@@ -1,0 +1,35 @@
+body{
+    background: rgb(14,0,255);
+    background: linear-gradient(0deg, rgba(14,0,255,1) 0%, rgba(80,2,152,1) 0%, rgba(6,161,241,1) 50%);
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    
+}
+
+.quad{
+    background-color: #E7F0FF;
+    width: 1880px;
+    height: 900px;
+    margin-top: 20px;
+    border-radius: 39px;
+    
+    
+}
+
+.quadra{
+
+}
+
+.img{
+    width: 200px;
+    height: 100px;
+    margin-left: 800px;
+    margin-top: 100px;
+    
+}
